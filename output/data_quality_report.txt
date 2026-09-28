@@ -1,0 +1,27 @@
+SALES DATA QUALITY REPORT
+=========================
+
+Original rows: 3000
+Clean rows: 3000
+Rows removed: 0
+
+Original columns: 13
+Clean columns: 13
+
+Missing values after cleaning:
+orderid         0
+orderdate       0
+month           0
+region          0
+category        0
+channel         0
+unitprice       0
+quantity        0
+revenue         0
+deliverydays    0
+delayed         0
+customerid      0
+churnrisk       0
+
+Duplicate rows after cleaning:
+0
